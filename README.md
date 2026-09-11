@@ -1,50 +1,51 @@
 # Equipe Decola
 
-Este projeto foi desenvolvido com o intuito de botar o que aprendi em pratica, utilizando um curso da **Equipe Decola** como base, criando um site de venda para o mesmo, equipe decola é uma empresa em que um colega faz parte.
+This project was developed with the goal of putting what I learned into practice, using a course from **Equipe Decola** as a foundation to create a sales website for it. Equipe Decola is a company that one of my colleagues is part of.
 
-O projeto simula um site relacionado à apresentação e comercialização de um curso.
+The project simulates a website focused on the presentation and sale of a course.
 
-## Estrutura do projeto
+## Project Structure
 
-O projeto é composto por diferentes arquivos, cada um responsável por uma parte do site:
+The project consists of different files, each responsible for a specific part of the website:
 
-*  **Página principal** — apresenta o curso e suas principais informações.
-*  **Registro** — arquivo responsável pela tela de cadastro do usuário (bem basico mesmo, pois o verdadeiro foco era a pagina principal).
-*  **Compra realizada** — arquivo que representa a confirmação da compra do curso.
-*  **Imagens** — arquivo destinado às imagens utilizadas no projeto.
-*  **Arquivo adicional** — utilizado como parte das atividades desenvolvidas durante o curso.
+* **Main Page** — presents the course and its main information.
+* **Registration** — file responsible for the user registration screen (very basic, since the main focus was the homepage).
+* **Purchase Completed** — file that represents the confirmation of the course purchase.
+* **Images** — folder containing the images used throughout the project.
+* **Additional File** — used as part of the activities developed during the course.
 
-## Tecnologias utilizadas
+## Technologies Used
 
 * HTML5
 * CSS3
 
-## Objetivo
+## Objective
 
-O principal objetivo deste projeto foi colocar em prática os conhecimentos aprendidos durante o curso, trabalhando com a criação, estruturação e estilização de páginas web utilizando HTML e CSS.
+The main objective of this project was to put the knowledge acquired during the course into practice, working with the creation, structure, and styling of web pages using HTML and CSS.
 
-O projeto também serviu como uma oportunidade para desenvolver uma aplicação baseada em um projeto real.
+The project also provided an opportunity to develop an application based on a real-world project.
 
-O projeto tambem é responsivo,  feito para seadaptar a todo tipo de tamanho de tela.
+The project is also **responsive**, being designed to adapt to different screen sizes and devices.
 
-## Como executar
+## How to Run
 
-1. Clone este repositório:
+1. Clone this repository:
 
 ```bash
 git clone git@github.com:italokisame/EquipeDecolaCurso.git
 ```
 
-2. Entre na pasta do projeto:
+2. Enter the project folder:
 
 ```bash
 cd EquipeDecolaCurso
 ```
 
-3. Abra o arquivo principal `index.html` no navegador.
+3. Open the main `index.html` file in your browser.
 
-Não é necessário instalar nenhuma dependência.
+No dependencies need to be installed.
 
 ---
 
-criado e desenvolvido por **Italo Kisame**
+Created and developed by **Italo Kisame**
+
